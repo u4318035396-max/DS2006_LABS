@@ -6,3 +6,5 @@ Each version of the Dice Problem is saved as a separate commit to show progress 
 
 *UPDATE: This is Rinad updating the file*
 MY TURN!! IS IT WORKING?? Rafah here btw
+
+This is Julie writing 
